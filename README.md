@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElijaZuercher
+- 👋 Hi, I’m Elija Zürcher
 - 👀 I’m interested in HTML / C# 
 - 🌱 I’m currently learning C# / HTML / C++ / JavaScript / CSS
 - 💞️ I’m looking to collaborate on ...
