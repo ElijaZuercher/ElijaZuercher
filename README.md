@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elija Zürcher
 - 👀 I’m interested in HTML / C# / JavaScript
-- 🌱 I’m currently learning C# / HTML / SCSS / C++ / JavaScript / CSS
+- 🌱 I’m currently learning C# / HTML / SCSS / C++ / JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: elija.zuercher@gmail.com
 
