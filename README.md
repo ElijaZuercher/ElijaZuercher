@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elija Zürcher
 - 👀 I’m interested in HTML / SCSS / JavaScript
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: elija.zuercher@gmail.com
 
 <!---
