@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elija Zürcher
 - 👀 I’m interested in HTML / SCSS / JavaScript
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: elija.zuercher@gmail.com
+- 📫 How to reach me elija.zuercher@gmail.com
 
 <!---
 ElijaZuercher/ElijaZuercher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
