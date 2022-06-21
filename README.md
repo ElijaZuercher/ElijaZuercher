@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [not yet](not yet)
+- 👨‍💻 All of my projects are available at (not yet)
 
 - 📫 How to reach me **elija_zuercher@sluz.ch**
 
