@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elija</h1>
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
-<p align="center">
+<p align="center">- 🔭 I’m currently working on my **E-Portofolio**</p>
 
-- 🔭 I’m currently working on my **E-Portofolio**
+
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -11,7 +11,7 @@
 - ⚡ Fun fact **Rabbits can see behind them without moving their heads.**
 
 
-</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
