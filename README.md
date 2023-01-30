@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Elija</h1>
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
+<p align="center">
 
-- 🔭 I’m currently working on **E-Portofolio**
+- 🔭 I’m currently working on my **E-Portofolio**
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at (not yet)
 
 - 📫 How to reach me **elija_zuercher@sluz.ch**
 
 - ⚡ Fun fact **Rabbits can see behind them without moving their heads.**
 
-<p align="center">
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
