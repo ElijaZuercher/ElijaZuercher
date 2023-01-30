@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Switzerland</h3><br>
 <p align="center"> 🔭 I’m currently working on my E-Portofolio</p><br>
 <p align="center"> 🌱 I’m currently learning JavaScript</p><br>
-<p align="center"> 📫 How to reach me **elija_zuercher@sluz.ch**</p><br>
+<p align="center"> 📫 How to reach me elija_zuercher@sluz.ch</p><br>
 <p align="center"> ⚡ Fun fact Rabbits can see behind them without moving their heads.</p><br>
 
 
