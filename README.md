@@ -4,17 +4,22 @@
 
 <h2 align="center">👨🏼‍🎓 Education</h2>
 
-<p align="center"> **Emphasis** Internship</p><br>
-<p align="center"> JMC-Software</p><br>
-<p align="center"> 08.2023</p><br><br>
-<p align="center"> 🌱 I’m currently learning JavaScript</p><br>
-<p align="center"> 📫 How to reach me elija_zuercher@sluz.ch</p><br>
-<p align="center"> ⚡ Fun fact Rabbits can see behind them without moving their heads.</p><br>
+<p align="center"> 
+  <strong> Internship </strong> <br> 
+  JMC-Software <br>
+  08.2023 
+  <br>
+  <br>
+  <strong> Informatikmittelschule </strong> <br> 
+  FMZ Lucerne <br>
+  since 08.2020 
+  
+</p>
 
 
 
-<h3 align="center">Languages and Tools:</h3><br>
-<p align="center">
+<h2 align="center">🔌 Languages and Tools</h2><br>
+
 
  <p align="center"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -31,6 +36,6 @@
 
  
 
-</p>
+
 
 
