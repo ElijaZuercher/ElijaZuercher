@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Elija</h1>
+<h1 align="center">Elija Zürcher</h1>
+
 <br>
-<h3 align="center">A passionate frontend developer from Switzerland</h3><br>
-<p align="center"> 🔭 I’m currently working on my E-Portofolio</p><br>
+
+<h2 align="center">👨🏼‍🎓 Education</h2>
+
+<p align="center"> **Emphasis** Internship</p><br>
+<p align="center"> JMC-Software</p><br>
+<p align="center"> 08.2023</p><br><br>
 <p align="center"> 🌱 I’m currently learning JavaScript</p><br>
 <p align="center"> 📫 How to reach me elija_zuercher@sluz.ch</p><br>
 <p align="center"> ⚡ Fun fact Rabbits can see behind them without moving their heads.</p><br>
