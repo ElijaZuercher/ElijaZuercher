@@ -17,19 +17,16 @@
 </p>
 
 <br>
-<br>
+
 
 <h2 align="center"> 👀 Interests </h2>
 
 <div align="center">
-  🏋🏼‍♂️ <br>
-  Fitness  <br>  <br>
+  🏋🏼‍♂️ Fitness  <br>  <br>
 
-  🥊 <br>
-  Martial Arts <br> <br>
+  🥊 Martial Arts <br> <br>
 
-  🏍 <br>
-  Motorcycle <br> <br>
+  🏍 Motorcycles <br> <br>
 
 </div>
 
