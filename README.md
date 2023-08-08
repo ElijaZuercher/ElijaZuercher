@@ -22,11 +22,11 @@
 <h2 align="center"> 👀 Interests </h2>
 
 <div align="center">
-  🏋🏼‍♂️ Fitness  <br>  <br>
+  🏋🏼‍♂️ Fitness <br><br>
 
-  🥊 Martial Arts <br> <br>
+  🥊 Martial Arts <br><br>
 
-  🏍 Motorcycles <br> <br>
+  🏍 Motorcycles <br><br>
 
 </div>
 
