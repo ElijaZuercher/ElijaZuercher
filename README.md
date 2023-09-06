@@ -23,11 +23,11 @@
 
 <div align="center">
   
-  🏋🏼‍♂️<br> <strong> Fitness </strong> <br><br>
+  🏋🏼‍♂️<br> <strong> Fitness </strong> <br>
   
-  🏍<br> <strong> Motorcycles </strong> <br><br>
+  🏍<br> <strong> Motorcycles </strong> <br>
   
-  🥊<br> <strong> Martial Arts </strong> <br><br>
+  🥊<br> <strong> Martial Arts </strong> <br>
 
 </div>
 
