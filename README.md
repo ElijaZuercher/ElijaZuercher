@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <strong> Internship </strong> <br> 
-  JMC-Software <br>
+  Convotis Schweiz AG <br>
   08.2023 
   <br>
   <br>
